@@ -110,5 +110,10 @@ a {
 
 #baratebisPoto {
     display: block;
-    margin-bottom: 300;
+    margin-bottom: -300px;
+}
+
+#cardsImage {
+    text-align: right;
+    margin-top: -150px;
 }
