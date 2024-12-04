@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#divtavi {
+    width: 980px;
+    margin-left: 40px;
+
+}
+
+#nextlogo {
+    width: 147px;
+    margin-right: 150px;
+}
+
+#divnavebi {
+    display: inline-block;
+}
+
+#list {
+    display: inline-block;
+    list-style-type: none;
+    margin: auto;
+}
+
+.listitem {
+    display: inline-block;
+}
+
+.listitem a {
+    text-align: none;
+    color: gray;
+    margin-left: 20px;
+}
+
+#gilaki {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+    color: #AC00FF;
+    font-size: 14px;
+    margin-left: 150px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#maincontainer {
+    width: 814px;
+    margin-top: 136px;
+    margin-left: 214px;
+    /* margin-bottom: 20px; */
+}
+
+#simplisdivi {
+    width: 720px;
+    margin-bottom: 20px;
+}
+
+#ragacsimpl {
+    color: #323232;
+    font-family: Impact;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 74px;
+}
+
+#moneyragac {
+    color: #323232;
+    font-family: "Inria Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+#gilakiori {
+    padding: 16px 24px;
+    background-color: #5C3BAE;
+    color: #FFFFFF;
+    border-radius: 8px;
+    margin-right: 24px;
+}
+
+#play {
+    display: inline-block;
+}
+
+#iasamnisperiisroa {
+    margin-top: 2px;
+    display: inline;
+    vertical-align: middle;
+}
+
+#play {
+    vertical-align: middle;
+}
+
+#underliniani {
+    display: inline;
+    vertical-align: middle;
+    color: #4d3491;
+}
+
+#baratebisPoto {
+    display: block;
+    margin-bottom: 300;
+}
