@@ -5,7 +5,7 @@
 
 }
 
-#divtavi {
+#headerFrame {
     width: 980px;
     margin-left: 40px;
 
@@ -16,7 +16,7 @@
     margin-right: 150px;
 }
 
-#divnavebi {
+#navigationContainer {
     display: inline-block;
 }
 
@@ -26,17 +26,17 @@
     margin: auto;
 }
 
-.listitem {
+#list li {
     display: inline-block;
 }
 
-.listitem a {
+#list a {
     text-align: none;
     color: gray;
     margin-left: 20px;
 }
 
-#gilaki {
+#contactUsButton {
     padding: 8px 16px;
     border-radius: 8px;
     border: 1px solid #AC00FF;
@@ -51,18 +51,18 @@ a {
 }
 
 #maincontainer {
-    width: 814px;
+    width: 614px;
     margin-top: 136px;
     margin-left: 214px;
     /* margin-bottom: 20px; */
 }
 
-#simplisdivi {
+#headerContainer {
     width: 720px;
     margin-bottom: 20px;
 }
 
-#ragacsimpl {
+#mainHeader {
     color: #323232;
     font-family: Impact;
     font-size: 64px;
@@ -71,46 +71,47 @@ a {
     line-height: 74px;
 }
 
-#moneyragac {
+#mainPar {
     color: #323232;
     font-family: "Inria Sans";
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
     line-height: 32px;
+    margin-bottom: 24px;
 }
 
-#gilakiori {
+#joinButton {
     padding: 16px 24px;
     background-color: #5C3BAE;
     color: #FFFFFF;
     border-radius: 8px;
     margin-right: 24px;
+    border: none;
 }
 
 #play {
     display: inline-block;
+    vertical-align: middle;
 }
 
-#iasamnisperiisroa {
+#playImg {
     margin-top: 2px;
     display: inline;
     vertical-align: middle;
 }
 
-#play {
-    vertical-align: middle;
-}
-
-#underliniani {
+#watchVideo {
     display: inline;
     vertical-align: middle;
     color: #4d3491;
 }
 
-#baratebisPoto {
-    display: block;
+#cardsPicture {
+    display: inline-block;
     margin-bottom: -300px;
+    width: 100%;
+    max-width: 1311px;
 }
 
 #cardsImage {
